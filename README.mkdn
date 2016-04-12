@@ -1,5 +1,7 @@
-CyanogenMod
-===========
+TLGeek's CyanogenMod Fork
+=========================
+
+I haven't bothered changing most of this from the original.
 
 Submitting Patches
 ------------------
@@ -42,9 +44,6 @@ Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building ins
 For more information on this Github Organization and how it is structured, 
 please [read the wiki article](http://wiki.cyanogenmod.org/w/Github_Organization)
 
-Buildbot
---------
-
-All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
-
-You can view the current build statuses in the [Jenkins](http://jenkins.cyanogenmod.org) tool.
+Build frequency
+---------------
+Most probably on weekends. Or when I have spare time.
